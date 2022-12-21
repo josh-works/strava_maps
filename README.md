@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Speedrunning https://www.learnenough.com/course/ruby_on_rails_tutorial_7th_edition/, following it exactly and bringing some of it over to this `strava maps` thing.
 
-Things you may want to cover:
+Hoping to build a multi-tenant version of https://josh-strava-heatmap.herokuapp.com/
 
-* Ruby version
+with `regular users`, `teams`, and more.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
